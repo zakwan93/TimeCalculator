@@ -62,8 +62,6 @@ After that, I declare one more variable myAge is my actual age and multiply that
 
 var secondsOfMyAge = secondPerYear * myAge;
 
-document.write("<h1> I'm " + secondsOfMyAge + " seconds old. </h1>");
-
 
 
 This is a very simple programmer for beginners to learn how to perform simple math with JavaScript.
